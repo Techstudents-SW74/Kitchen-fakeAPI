@@ -66,7 +66,7 @@
       "stock": 150,
       "category": "Bebidas",
       "brand": "Coca-Cola",
-      "imageUrl": "https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/ce40fc4a-b351-420d-a06e-14304018bed5"
+      "imageUrl": https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcQQ4sgOWLfoJ4YQVjglTcgjwzXrFtnWiBWi7JrqdOYHK3QKu6KHcxNj8gaTYACYjyvt"
     },
     {
       "id": 2,
@@ -76,7 +76,7 @@
       "stock": 200,
       "category": "Bebidas",
       "brand": "San Pellegrino",
-      "imageUrl": "https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/f481402c-de81-4d95-a694-82fab273adfa"
+      "imageUrl": "https://socialdrinks.pe/wp-content/uploads/2022/04/1313_BE00000051-583x583.jpeg"
     },
     {
       "id": 3,
@@ -86,7 +86,7 @@
       "stock": 100,
       "category": "Jugos",
       "brand": "Tropicana",
-      "imageUrl": "https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/19f2c725-e39b-4319-84c3-efed243898dd"
+      "imageUrl": "https://elrinconcitochapin.com/wp-content/uploads/2018/07/JUGO-DE-NARANJA.jpg"
     },
     {
       "id": 4,
@@ -96,7 +96,7 @@
       "stock": 80,
       "category": "Té",
       "brand": "Lipton",
-      "imageUrl": "https://images.pexels.com/photos/1352278/pexels-photo-1352278.jpeg"
+      "imageUrl": "https://www.prolicor.com.ve/wp-content/uploads/2018/08/Lipton_te_Verde.jpg"
     },
     {
       "id": 5,
@@ -116,7 +116,7 @@
       "stock": 120,
       "category": "Lácteos",
       "brand": "Alpura",
-      "imageUrl": "https://images.pexels.com/photos/4191403/pexels-photo-4191403.jpeg"
+      "imageUrl": "https://walmarthn.vtexassets.com/arquivos/ids/223163-800-600?v=637846835186130000&width=800&height=600&aspect=true"
     },
     {
       "id": 7,
@@ -146,7 +146,7 @@
       "stock": 60,
       "category": "Vinos",
       "brand": "Casillero del Diablo",
-      "imageUrl": "https://images.pexels.com/photos/209541/pexels-photo-209541.jpeg"
+      "imageUrl": "https://perufarma.com.pe/wp-content/uploads/2023/01/1865-CS.png"
     },
     {
       "id": 10,
@@ -156,7 +156,7 @@
       "stock": 150,
       "category": "Batidos",
       "brand": "Smoothie Co.",
-      "imageUrl": "https://images.pexels.com/photos/1101418/pexels-photo-1101418.jpeg"
+      "imageUrl": "https://gourmetbilbao.com/wp-content/uploads/2017/05/batido-fresa3.jpg"
     },
     {
       "id": 11,
@@ -166,7 +166,7 @@
       "stock": 300,
       "category": "Bebidas",
       "brand": "Gatorade",
-      "imageUrl": "https://images.pexels.com/photos/1954155/pexels-photo-1954155.jpeg"
+      "imageUrl": "https://superaltos.com/wp-content/uploads/2024/04/Gatorade-Lima-Limon.jpg"
     },
     {
       "id": 12,
@@ -176,7 +176,7 @@
       "stock": 75,
       "category": "Bebidas",
       "brand": "Nestlé",
-      "imageUrl": "https://images.pexels.com/photos/2297126/pexels-photo-2297126.jpeg"
+      "imageUrl": "https://www.vitamixespana.com/recetas/wp-content/uploads/2016/10/chocolate-caliente.jpg"
     }
   ],
   "customerAccount": [
