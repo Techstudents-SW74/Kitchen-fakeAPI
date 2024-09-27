@@ -271,75 +271,19 @@
     }
   ],
   "customerAccount": [
-        {
-            "id": 1,
-            "customerAccountName": "Nombre de la cuenta de John",
-            "customerAccountOwner": "John Ramirez Cena",
-            "customerTotalOrder": 35.50,
-            "customerAccountStatus": "Open",
-            "customerAccountTotalGuests": 3,
-            "table": {
-                "id": 1,
-                "tableNumber": 1,
-                "tableCapacity": 4,
-                "tableStatus": "available"
-            }
-        },
-        {
-            "id": 2,
-            "customerAccountName": "Nombre de la cuenta de Alice",
-            "customerAccountOwner": "Alice Martinez",
-            "customerTotalOrder": 48.20,
-            "customerAccountStatus": "Closed",
-            "customerAccountTotalGuests": 4,
-            "table": {
-                "id": 2,
-                "tableNumber": 2,
-                "tableCapacity": 6,
-                "tableStatus": "available"
-            }
-        },
-        {
-            "id": 3,
-            "customerAccountName": "Nombre de la cuenta de Robert",
-            "customerAccountOwner": "Robert Gomez",
-            "customerTotalOrder": 60.75,
-            "customerAccountStatus": "Open",
-            "customerAccountTotalGuests": 5,
-            "table": {
-                "id": 3,
-                "tableNumber": 3,
-                "tableCapacity": 5,
-                "tableStatus": "available"
-            }
-        },
-        {
-            "id": 4,
-            "customerAccountName": "Nombre de la cuenta de Linda",
-            "customerAccountOwner": "Linda Silva",
-            "customerTotalOrder": 25.00,
-            "customerAccountStatus": "Reserved",
-            "customerAccountTotalGuests": 2,
-            "table": {
-                "id": 4,
-                "tableNumber": 4,
-                "tableCapacity": 2,
-                "tableStatus": "available"
-            }
-        },
-        {
-            "id": 5,
-            "customerAccountName": "Nombre de la cuenta de Mark",
-            "customerAccountOwner": "Mark Thompson",
-            "customerTotalOrder": 75.00,
-            "customerAccountStatus": "Open",
-            "customerAccountTotalGuests": 6,
-            "table": {
-                "id": 5,
-                "tableNumber": 5,
-                "tableCapacity": 8,
-                "tableStatus": "available"
-            }
-        }
-    ]
+    {
+      "id": 1,
+      "customerAccountName": "Nombre de la cuenta de John",
+      "customerAccountOwner": "John Ramirez Cena",
+      "customerTotalOrder": 35.50,
+      "customerAccountStatus": "Open",
+      "customerAccountTotalGuests": 3,
+      "table": {
+         "id": 1,
+         "tableNumber": 1,
+         "tableCapacity": 4,
+        "tableStatus": "available"
+      }
+    }
+  ],
 }
