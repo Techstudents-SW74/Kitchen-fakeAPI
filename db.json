@@ -270,20 +270,4 @@
       "userId": 1
     }
   ],
-  "customerAccount": [
-    {
-      "id": 1,
-      "customerAccountName": "Nombre de la cuenta de John",
-      "customerAccountOwner": "John Ramirez Cena",
-      "customerTotalOrder": 35.50,
-      "customerAccountStatus": "Open",
-      "customerAccountTotalGuests": 3,
-      "table": {
-         "id": 1,
-         "tableNumber": 1,
-         "tableCapacity": 4,
-        "tableStatus": "available"
-      }
-    }
-  ],
 }
