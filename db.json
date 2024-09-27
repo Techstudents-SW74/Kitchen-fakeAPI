@@ -41,8 +41,7 @@
       "email": "luis_garcia@gmail.com",
       "password": "Luis123",
       "photo": "https://images.pexels.com/photos/936555/pexels-photo-936555.jpeg"
-    },
-    
+    }
   ],
   "products": [
     {
@@ -109,7 +108,8 @@
   "sales": [
     {
       "id": 1,
-      "name": "Coca cola",
+      "productId": 1,
+      "productName": "Coca Cola",
       "description": "Refresco de cola, refrescante y delicioso.",
       "unitPrice": 1.5,
       "quantity": 20,
@@ -118,9 +118,10 @@
     },
     {
       "id": 2,
-      "name": "Agua Mineral",
+      "productId": 2,
+      "productName": "Agua Mineral",
       "description": "Agua mineral natural, con gas.",
-      "unitPrice": 1.5,
+      "unitPrice": 2.5,
       "quantity": 30,
       "imageUrl": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQTKPfhD7KjTxh3WxlIC7zzKlnmTR1CaNt29U9M76o8WdjJ77UZvo1fKVSciIiuRybj",
       "userId": 1
