@@ -179,142 +179,62 @@
       "imageUrl": "https://images.pexels.com/photos/2297126/pexels-photo-2297126.jpeg"
     }
   ],
-"customerAccount": [
-        {
-            "id": 1,
-            "customerAccountName": "Nombre de la cuenta de John",
-            "customerAccountOwner": "John Ramirez Cena",
-            "customerTotalOrder": 35.50,
-            "customerAccountStatus": "Open",
-            "customerAccountTotalGuests": 3,
-            "table": {
-                "id": 1,
-                "tableNumber": 1,
-                "tableCapacity": 4,
-                "tableStatus": "available"
-            }
-        },
-        {
-            "id": 2,
-            "customerAccountName": "Nombre de la cuenta de Alice",
-            "customerAccountOwner": "Alice Martinez",
-            "customerTotalOrder": 48.20,
-            "customerAccountStatus": "Open",
-            "customerAccountTotalGuests": 4,
-            "table": {
-                "id": 2,
-                "tableNumber": 2,
-                "tableCapacity": 6,
-                "tableStatus": "available"
-            }
-        },
-        {
-            "id": 3,
-            "customerAccountName": "Nombre de la cuenta de Robert",
-            "customerAccountOwner": "Robert Gomez",
-            "customerTotalOrder": 60.75,
-            "customerAccountStatus": "Open",
-            "customerAccountTotalGuests": 5,
-            "table": {
-                "id": 3,
-                "tableNumber": 3,
-                "tableCapacity": 5,
-                "tableStatus": "reserved"
-            }
-        },
-        {
-            "id": 4,
-            "customerAccountName": "Nombre de la cuenta de Linda",
-            "customerAccountOwner": "Linda Silva",
-            "customerTotalOrder": 25.00,
-            "customerAccountStatus": "Open",
-            "customerAccountTotalGuests": 2,
-            "table": {
-                "id": 4,
-                "tableNumber": 4,
-                "tableCapacity": 2,
-                "tableStatus": "available"
-            }
-        },
-        {
-            "id": 5,
-            "customerAccountName": "Nombre de la cuenta de Mark",
-            "customerAccountOwner": "Mark Thompson",
-            "customerTotalOrder": 75.00,
-            "customerAccountStatus": "Open",
-            "customerAccountTotalGuests": 6,
-            "table": {
-                "id": 5,
-                "tableNumber": 5,
-                "tableCapacity": 8,
-                "tableStatus": "occupied"
-            }
-        }
-    ],
-  
-  "transactions": [
+  "customerAccount": [
     {
       "id": 1,
-      "type": "ingreso",
-      "costName": "Coca Cola",
-      "date": "2019-07-10",
-      "description": "Se vendieron 300 botellas de Coca Cola a Tienda ABC",
-      "price": 250,
-      "quantity": "300 botellas"
+      "customerAccountName": "Nombre de la cuenta de John",
+      "customerAccountOwner": "John Ramirez Cena",
+      "customerTotalOrder": 35.50,
+      "customerAccountStatus": "Open",
+      "customerAccountTotalGuests": 3,
+      "table": {
+        "id": 1,
+        "tableNumber": 1,
+        "tableCapacity": 4,
+        "tableStatus": "available"
+      }
     },
     {
       "id": 2,
-      "type": "ingreso",
-      "costName": "Agua Mineral",
-      "date": "2019-11-15",
-      "description": "Se vendieron 200 botellas de agua mineral a Supermercado XYZ",
-      "price": 200,
-      "quantity": "200 botellas"
+      "customerAccountName": "Nombre de la cuenta de Alice",
+      "customerAccountOwner": "Alice Martinez",
+      "customerTotalOrder": 48.20,
+      "customerAccountStatus": "Open",
+      "customerAccountTotalGuests": 4,
+      "table": {
+        "id": 2,
+        "tableNumber": 2,
+        "tableCapacity": 6,
+        "tableStatus": "available"
+      }
     },
     {
       "id": 3,
-      "type": "ingreso",
-      "costName": "Jugo de Naranja",
-      "date": "2020-01-15",
-      "description": "Se vendieron 150 botellas de jugo de naranja a Distribuidora de Bebidas",
-      "price": 300,
-      "quantity": "150 botellas"
+      "customerAccountName": "Nombre de la cuenta de Carlos",
+      "customerAccountOwner": "Carlos Lopez",
+      "customerTotalOrder": 27.75,
+      "customerAccountStatus": "Closed",
+      "customerAccountTotalGuests": 2,
+      "table": {
+        "id": 3,
+        "tableNumber": 3,
+        "tableCapacity": 4,
+        "tableStatus": "available"
+      }
     },
     {
       "id": 4,
-      "type": "ingreso",
-      "costName": "Agua Mineral",
-      "date": "2020-02-20",
-      "description": "Se vendieron 100 botellas de agua mineral a Supermercado Verde",
-      "price": 150,
-      "quantity": "100 botellas"
-    },
-    {
-      "id": 5,
-      "type": "ingreso",
-      "costName": "Coca Cola",
-      "date": "2020-03-25",
-      "description": "Se vendieron 400 botellas de Coca Cola a Comercializadora de Bebidas",
-      "price": 180,
-      "quantity": "400 botellas"
-    },
-    {
-      "id": 6,
-      "type": "gasto",
-      "costName": "Café Latte",
-      "date": "2019-08-05",
-      "description": "Compra de café latte a Proveedor A",
-      "price": 150,
-      "quantity": "50 unidades"
-    },
-    {
-      "id": 7,
-      "type": "gasto",
-      "costName": "Leche Deslactosada",
-      "date": "2019-12-12",
-      "description": "Compra de leche deslactosada a Distribuidor B",
-      "price": 100,
-      "quantity": "50 unidades"
+      "customerAccountName": "Nombre de la cuenta de Elena",
+      "customerAccountOwner": "Elena Fernandez",
+      "customerTotalOrder": 50.00,
+      "customerAccountStatus": "Open",
+      "customerAccountTotalGuests": 3,
+      "table": {
+        "id": 4,
+        "tableNumber": 4,
+        "tableCapacity": 4,
+        "tableStatus": "available"
+      }
     }
   ]
 }
