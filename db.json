@@ -42,20 +42,7 @@
       "password": "Luis123",
       "photo": "https://images.pexels.com/photos/936555/pexels-photo-936555.jpeg"
     },
-    {
-      "id": 7,
-      "username": "Elena",
-      "email": "elena.rodriguez@gmail.com",
-      "password": "Elena123",
-      "photo": "https://images.pexels.com/photos/38554/model-woman-girl-beautiful-38554.jpeg"
-    },
-    {
-      "id": 8,
-      "username": "Jorge",
-      "email": "jorge.martinez@gmail.com",
-      "password": "Jorge123",
-      "photo": "https://images.pexels.com/photos/936063/pexels-photo-936063.jpeg"
-    }
+    
   ],
   "products": [
     {
@@ -110,16 +97,6 @@
     },
     {
       "id": 6,
-      "name": "Leche Deslactosada",
-      "description": "Leche baja en lactosa, ideal para intolerantes.",
-      "unitPrice": 2.0,
-      "stock": 120,
-      "category": "Lácteos",
-      "brand": "Alpura",
-      "imageUrl": "https://walmarthn.vtexassets.com/arquivos/ids/223163-800-600?v=637846835186130000&width=800&height=600&aspect=true"
-    },
-    {
-      "id": 7,
       "name": "Cerveza Heineken",
       "description": "Cerveza lager de sabor suave y refrescante.",
       "unitPrice": 4.0,
@@ -127,56 +104,6 @@
       "category": "Cerveza",
       "brand": "Heineken",
       "imageUrl": "https://images.pexels.com/photos/2439921/pexels-photo-2439921.jpeg"
-    },
-    {
-      "id": 8,
-      "name": "Red Bull Energy Drink",
-      "description": "Bebida energética con cafeína y taurina.",
-      "unitPrice": 2.5,
-      "stock": 250,
-      "category": "Energéticas",
-      "brand": "Red Bull",
-      "imageUrl": "https://images.pexels.com/photos/159201/energy-drink-red-bull-drink-energy-159201.jpeg"
-    },
-    {
-      "id": 9,
-      "name": "Vino Tinto Cabernet Sauvignon",
-      "description": "Vino tinto robusto con notas a frutos rojos.",
-      "unitPrice": 15.0,
-      "stock": 60,
-      "category": "Vinos",
-      "brand": "Casillero del Diablo",
-      "imageUrl": "https://perufarma.com.pe/wp-content/uploads/2023/01/1865-CS.png"
-    },
-    {
-      "id": 10,
-      "name": "Batido de Fresa",
-      "description": "Batido de fresa fresco y cremoso, ideal para el desayuno.",
-      "unitPrice": 3.5,
-      "stock": 150,
-      "category": "Batidos",
-      "brand": "Smoothie Co.",
-      "imageUrl": "https://gourmetbilbao.com/wp-content/uploads/2017/05/batido-fresa3.jpg"
-    },
-    {
-      "id": 11,
-      "name": "Gatorade Limón",
-      "description": "Bebida deportiva con sabor a limón, ideal para rehidratación.",
-      "unitPrice": 1.8,
-      "stock": 300,
-      "category": "Bebidas",
-      "brand": "Gatorade",
-      "imageUrl": "https://superaltos.com/wp-content/uploads/2024/04/Gatorade-Lima-Limon.jpg"
-    },
-    {
-      "id": 12,
-      "name": "Chocolate Caliente",
-      "description": "Delicioso chocolate caliente, perfecto para los días fríos.",
-      "unitPrice": 2.0,
-      "stock": 75,
-      "category": "Bebidas",
-      "brand": "Nestlé",
-      "imageUrl": "https://www.vitamixespana.com/recetas/wp-content/uploads/2016/10/chocolate-caliente.jpg"
     }
   ],
   "customerAccounts": [
