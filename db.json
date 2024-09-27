@@ -179,14 +179,14 @@
       "imageUrl": "https://www.vitamixespana.com/recetas/wp-content/uploads/2016/10/chocolate-caliente.jpg"
     }
   ],
-  "customerAccount": [
+  "customerAccounts": [
     {
       "id": 1,
-      "customerAccountName": "Nombre de la cuenta de John",
-      "customerAccountOwner": "John Ramirez Cena",
-      "customerTotalOrder": 35.50,
-      "customerAccountStatus": "Open",
-      "customerAccountTotalGuests": 3,
+      "accountName": "Nombre de la cuenta de John",
+      "accountOwner": "John Ramirez Cena",
+      "totalOrder": 35.50,
+      "accountStatus": "Open",
+      "totalGuests": 3,
       "table": {
         "id": 1,
         "tableNumber": 1,
@@ -196,42 +196,28 @@
     },
     {
       "id": 2,
-      "customerAccountName": "Nombre de la cuenta de Alice",
-      "customerAccountOwner": "Alice Martinez",
-      "customerTotalOrder": 48.20,
-      "customerAccountStatus": "Open",
-      "customerAccountTotalGuests": 4,
+      "accountName": "Nombre de la cuenta de Alice",
+      "accountOwner": "Alice Martinez",
+      "totalOrder": 50.00,
+      "accountStatus": "Closed",
+      "totalGuests": 5,
       "table": {
         "id": 2,
         "tableNumber": 2,
         "tableCapacity": 6,
-        "tableStatus": "available"
+        "tableStatus": "occupied"
       }
     },
     {
       "id": 3,
-      "customerAccountName": "Nombre de la cuenta de Carlos",
-      "customerAccountOwner": "Carlos Lopez",
-      "customerTotalOrder": 27.75,
-      "customerAccountStatus": "Closed",
-      "customerAccountTotalGuests": 2,
+      "accountName": "Nombre de la cuenta de Roberto",
+      "accountOwner": "Roberto Sanchez",
+      "totalOrder": 20.00,
+      "accountStatus": "Open",
+      "totalGuests": 2,
       "table": {
         "id": 3,
         "tableNumber": 3,
-        "tableCapacity": 4,
-        "tableStatus": "available"
-      }
-    },
-    {
-      "id": 4,
-      "customerAccountName": "Nombre de la cuenta de Elena",
-      "customerAccountOwner": "Elena Fernandez",
-      "customerTotalOrder": 50.00,
-      "customerAccountStatus": "Open",
-      "customerAccountTotalGuests": 3,
-      "table": {
-        "id": 4,
-        "tableNumber": 4,
         "tableCapacity": 4,
         "tableStatus": "available"
       }
