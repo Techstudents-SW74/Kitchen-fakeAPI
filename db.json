@@ -105,6 +105,26 @@
       "brand": "Heineken",
       "imageUrl": "https://images.pexels.com/photos/2439921/pexels-photo-2439921.jpeg"
     }
+  ],  
+  "sales": [
+    {
+      "id": 1,
+      "name": "Coca cola",
+      "description": "Refresco de cola, refrescante y delicioso.",
+      "unitPrice": 1.5,
+      "quantity": 20,
+      "imageUrl": "https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/ce40fc4a-b351-420d-a06e-14304018bed5",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "name": "Agua Mineral",
+      "description": "Agua mineral natural, con gas.",
+      "unitPrice": 1.5,
+      "quantity": 30,
+      "imageUrl": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQTKPfhD7KjTxh3WxlIC7zzKlnmTR1CaNt29U9M76o8WdjJ77UZvo1fKVSciIiuRybj",
+      "userId": 1
+    }
   ],
   "customerAccounts": [
     {
