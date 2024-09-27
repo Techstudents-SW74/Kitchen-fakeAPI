@@ -113,7 +113,8 @@
       "description": "Refresco de cola, refrescante y delicioso.",
       "unitPrice": 1.5,
       "quantity": 20,
-      "userId": 1
+      "userId": 1,
+      "date": "2024-09-27"  // Fecha de hoy
     },
     {
       "id": 2,
@@ -122,9 +123,11 @@
       "description": "Agua mineral natural, con gas.",
       "unitPrice": 2.5,
       "quantity": 30,
-      "userId": 1
+      "userId": 1,
+      "date": "2024-09-26"  // Fecha de ayer
     }
-  ],
+]
+,
   "customerAccounts": [
     {
       "id": 1,
