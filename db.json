@@ -1,0 +1,163 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Juan",
+      "email": "Juan@gmail.com",
+      "password": "Juan123",
+      "photo": "https://media.istockphoto.com/id/1199175531/photo/outdoor-portrait-of-smiling-spanish-man-in-mid-20s.jpg?s=170667a&w=0&k=20&c=6mDr4Fkq-ECwldusAzBRG21qenqKvtqLVXCEwHguGGY="
+    },
+    {
+      "id": 2,
+      "username": "Jose",
+      "email": "Jose@gmail.com",
+      "password": "Jose123",
+      "photo": "https://img.freepik.com/fotos-premium/chico-adolescente-atractivo-parque_58409-13244.jpg?w=2000"
+    },
+    {
+      "id": 3,
+      "username": "Hana",
+      "email": "Hana@gmail.com",
+      "password": "Hana123",
+      "photo": "https://img.freepik.com/foto-gratis/mujer-hermosa-joven-mirando-camara-chica-moda-verano-casual-camiseta-blanca-pantalones-cortos-hembra-positiva-muestra-emociones-faciales-modelo-divertido-aislado-amarillo_158538-15796.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Coca cola",
+      "description": "Refresco de cola, refrescante y delicioso.",
+      "unitPrice": 1.5,
+      "imageUrl": "https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/ce40fc4a-b351-420d-a06e-14304018bed5",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "name": "Agua Mineral",
+      "description": "Agua mineral natural, con gas.",
+      "unitPrice": 2.5,
+      "imageUrl": "https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/f481402c-de81-4d95-a694-82fab273adfa",
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "name": "Jugo de Naranja",
+      "description": "Jugo natural de naranja, 100% exprimido.",
+      "unitPrice": 1.5,
+      "imageUrl": "https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/19f2c725-e39b-4319-84c3-efed243898dd",
+      "userId": 1
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "type": "ingreso",
+      "costName": "Coca cola",
+      "date": "2019-07-10",
+      "description": "Se vendieron 300 botellas de Coca cola a Tienda ABC",
+      "price": 250,
+      "quantity": "300 botellas"
+    },
+    {
+      "id": 2,
+      "type": "ingreso",
+      "costName": "Agua Mineral",
+      "date": "2019-11-15",
+      "description": "Se vendieron 200 botellas de agua mineral a Supermercado XYZ",
+      "price": 200,
+      "quantity": "200 botellas"
+    },
+    {
+      "id": 3,
+      "type": "ingreso",
+      "costName": "Jugo de Naranja",
+      "date": "2020-01-15",
+      "description": "Se vendieron 150 botellas de jugo de naranja a Distribuidora de Bebidas",
+      "price": 300,
+      "quantity": "150 botellas"
+    },
+    {
+      "id": 4,
+      "type": "ingreso",
+      "costName": "Agua Mineral",
+      "date": "2020-02-20",
+      "description": "Se vendieron 100 botellas de agua mineral a Supermercado Verde",
+      "price": 150,
+      "quantity": "100 botellas"
+    },
+    {
+      "id": 5,
+      "type": "ingreso",
+      "costName": "Coca cola",
+      "date": "2020-03-25",
+      "description": "Se vendieron 400 botellas de Coca cola a Comercializadora de Bebidas",
+      "price": 180,
+      "quantity": "400 botellas"
+    },
+    {
+      "id": 6,
+      "type": "gasto",
+      "costName": "Pago de agua",
+      "date": "2019-10-10",
+      "description": "Se pagó el agua del mes de octubre",
+      "price": 200,
+      "quantity": "1"
+    },
+    {
+      "id": 7,
+      "type": "gasto",
+      "costName": "Pago de cajas contenedoras",
+      "date": "2019-11-10",
+      "description": "Se compraron cajas contenedoras para la producción de agua mineral",
+      "price": 500,
+      "quantity": "45 cajas contenedoras"
+    },
+    {
+      "id": 8,
+      "type": "gasto",
+      "costName": "Comida para el personal",
+      "date": "2019-12-05",
+      "description": "Compra de alimentos para el personal de la fábrica",
+      "price": 300,
+      "quantity": "1 compra"
+    },
+    {
+      "id": 9,
+      "type": "ingreso",
+      "costName": "Jugo de Naranja",
+      "date": "2020-04-30",
+      "description": "Se vendieron 250 botellas de jugo de naranja a Mercado Fresco",
+      "price": 220,
+      "quantity": "250 botellas"
+    },
+    {
+      "id": 10,
+      "type": "ingreso",
+      "costName": "Agua Mineral",
+      "date": "2023-09-20",
+      "description": "Venta de 30 botellas de agua mineral",
+      "price": 300,
+      "quantity": "30 botellas"
+    }
+  ],
+  "sales": [
+    {
+      "id": 1,
+      "name": "Coca cola",
+      "description": "Refresco de cola, refrescante y delicioso.",
+      "unitPrice": 1.5,
+      "quantity": 20,
+      "imageUrl": "https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/ce40fc4a-b351-420d-a06e-14304018bed5",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "name": "Agua Mineral",
+      "description": "Agua mineral natural, con gas.",
+      "unitPrice": 1.5,
+      "quantity": 30,
+      "imageUrl": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQTKPfhD7KjTxh3WxlIC7zzKlnmTR1CaNt29U9M76o8WdjJ77UZvo1fKVSciIiuRybj",
+      "userId": 1
+    }
+  ]
+}
