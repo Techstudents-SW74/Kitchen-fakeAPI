@@ -178,7 +178,7 @@
             "customerAccountName": "Nombre de la cuenta de Alice",
             "customerAccountOwner": "Alice Martinez",
             "customerTotalOrder": 48.20,
-            "customerAccountStatus": "Closed",
+            "customerAccountStatus": "Open",
             "customerAccountTotalGuests": 4,
             "table": {
                 "id": 2,
@@ -198,7 +198,7 @@
                 "id": 3,
                 "tableNumber": 3,
                 "tableCapacity": 5,
-                "tableStatus": "available"
+                "tableStatus": "reserved"
             }
         },
         {
@@ -206,7 +206,7 @@
             "customerAccountName": "Nombre de la cuenta de Linda",
             "customerAccountOwner": "Linda Silva",
             "customerTotalOrder": 25.00,
-            "customerAccountStatus": "Reserved",
+            "customerAccountStatus": "Open",
             "customerAccountTotalGuests": 2,
             "table": {
                 "id": 4,
@@ -226,7 +226,7 @@
                 "id": 5,
                 "tableNumber": 5,
                 "tableCapacity": 8,
-                "tableStatus": "available"
+                "tableStatus": "occupied"
             }
         }
     ],
