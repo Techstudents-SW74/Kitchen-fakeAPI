@@ -66,8 +66,7 @@
       "stock": 150,
       "category": "Bebidas",
       "brand": "Coca-Cola",
-      "imageUrl": "https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/ce40fc4a-b351-420d-a06e-14304018bed5",
-      "userId": 1
+      "imageUrl": "https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/ce40fc4a-b351-420d-a06e-14304018bed5"
     },
     {
       "id": 2,
@@ -77,8 +76,7 @@
       "stock": 200,
       "category": "Bebidas",
       "brand": "San Pellegrino",
-      "imageUrl": "https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/f481402c-de81-4d95-a694-82fab273adfa",
-      "userId": 1
+      "imageUrl": "https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/f481402c-de81-4d95-a694-82fab273adfa"
     },
     {
       "id": 3,
@@ -88,8 +86,7 @@
       "stock": 100,
       "category": "Jugos",
       "brand": "Tropicana",
-      "imageUrl": "https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/19f2c725-e39b-4319-84c3-efed243898dd",
-      "userId": 1
+      "imageUrl": "https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/19f2c725-e39b-4319-84c3-efed243898dd"
     },
     {
       "id": 4,
@@ -99,8 +96,7 @@
       "stock": 80,
       "category": "Té",
       "brand": "Lipton",
-      "imageUrl": "https://images.pexels.com/photos/1352278/pexels-photo-1352278.jpeg",
-      "userId": 2
+      "imageUrl": "https://images.pexels.com/photos/1352278/pexels-photo-1352278.jpeg"
     },
     {
       "id": 5,
@@ -110,8 +106,7 @@
       "stock": 50,
       "category": "Café",
       "brand": "Starbucks",
-      "imageUrl": "https://images.pexels.com/photos/374885/pexels-photo-374885.jpeg",
-      "userId": 3
+      "imageUrl": "https://images.pexels.com/photos/374885/pexels-photo-374885.jpeg"
     },
     {
       "id": 6,
@@ -121,8 +116,7 @@
       "stock": 120,
       "category": "Lácteos",
       "brand": "Alpura",
-      "imageUrl": "https://images.pexels.com/photos/4191403/pexels-photo-4191403.jpeg",
-      "userId": 4
+      "imageUrl": "https://images.pexels.com/photos/4191403/pexels-photo-4191403.jpeg"
     },
     {
       "id": 7,
@@ -132,8 +126,7 @@
       "stock": 300,
       "category": "Cerveza",
       "brand": "Heineken",
-      "imageUrl": "https://images.pexels.com/photos/2439921/pexels-photo-2439921.jpeg",
-      "userId": 5
+      "imageUrl": "https://images.pexels.com/photos/2439921/pexels-photo-2439921.jpeg"
     },
     {
       "id": 8,
@@ -143,8 +136,7 @@
       "stock": 250,
       "category": "Energéticas",
       "brand": "Red Bull",
-      "imageUrl": "https://images.pexels.com/photos/159201/energy-drink-red-bull-drink-energy-159201.jpeg",
-      "userId": 6
+      "imageUrl": "https://images.pexels.com/photos/159201/energy-drink-red-bull-drink-energy-159201.jpeg"
     },
     {
       "id": 9,
@@ -154,8 +146,37 @@
       "stock": 60,
       "category": "Vinos",
       "brand": "Casillero del Diablo",
-      "imageUrl": "https://images.pexels.com/photos/209541/pexels-photo-209541.jpeg",
-      "userId": 7
+      "imageUrl": "https://images.pexels.com/photos/209541/pexels-photo-209541.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "Batido de Fresa",
+      "description": "Batido de fresa fresco y cremoso, ideal para el desayuno.",
+      "unitPrice": 3.5,
+      "stock": 150,
+      "category": "Batidos",
+      "brand": "Smoothie Co.",
+      "imageUrl": "https://images.pexels.com/photos/1101418/pexels-photo-1101418.jpeg"
+    },
+    {
+      "id": 11,
+      "name": "Gatorade Limón",
+      "description": "Bebida deportiva con sabor a limón, ideal para rehidratación.",
+      "unitPrice": 1.8,
+      "stock": 300,
+      "category": "Bebidas",
+      "brand": "Gatorade",
+      "imageUrl": "https://images.pexels.com/photos/1954155/pexels-photo-1954155.jpeg"
+    },
+    {
+      "id": 12,
+      "name": "Chocolate Caliente",
+      "description": "Delicioso chocolate caliente, perfecto para los días fríos.",
+      "unitPrice": 2.0,
+      "stock": 75,
+      "category": "Bebidas",
+      "brand": "Nestlé",
+      "imageUrl": "https://images.pexels.com/photos/2297126/pexels-photo-2297126.jpeg"
     }
   ],
 "customerAccount": [
